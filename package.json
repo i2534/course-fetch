@@ -1,0 +1,18 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "chcp 65001 && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "iconv-lite": "^0.5.1",
+    "superagent": "^5.2.2",
+    "superagent-charset": "^1.2.0"
+  }
+}
